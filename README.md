@@ -1,4 +1,4 @@
-### J.R. Conradt
+### Jeff Conradt
 
 .NET engineer. I move decisions from runtime to compile time, and make the secure path the only one that compiles.
 
